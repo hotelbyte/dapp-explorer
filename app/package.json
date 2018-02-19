@@ -1,0 +1,24 @@
+{
+  "name": "dapp-explorer",
+  "version": "1.0.0",
+  "description": "Official HotelByte Explorer",
+  "main": "client/main.js",
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.39",
+    "axios": "^0.17.1",
+    "babel-runtime": "^6.26.0",
+    "bignumber.js": "^6.0.0",
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "meteor-node-stubs": "^0.3.2",
+    "number-to-bn": "^1.7.0",
+    "popper.js": "^1.12.9",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-loading": "^1.0.3",
+    "react-mounter": "^1.2.0",
+    "react-time-format": "0.0.5",
+    "react-timestamp": "^4.3.1",
+    "web3": "^1.0.0-beta.29"
+  }
+}

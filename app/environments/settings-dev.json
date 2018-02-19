@@ -1,0 +1,6 @@
+{
+  "public" : {
+    "apiExplorer":"http://localhost:30199",
+    "apiNetwork":"http://localhost:8086"
+  }
+}

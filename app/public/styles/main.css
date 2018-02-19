@@ -1,0 +1,28 @@
+/* Show it is fixed to the top */
+body {
+  min-height: 75rem;
+  padding-top: 7.5rem;
+}
+
+.smallerText {
+	font-size: smaller;
+}
+
+.footerSpace {
+	padding-top: 2rem;
+}
+
+.row.header {
+    background-color: #E0FFFF;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.container.top-margin {
+    margin-top: 2rem;
+}
+
+
+.smallFloat {
+    float: left;
+}
