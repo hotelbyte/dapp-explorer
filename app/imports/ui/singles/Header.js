@@ -72,6 +72,14 @@ export default class Header extends Component {
                         <li className="nav-item">
                             <a className="nav-link" href="/pools"><i className="fab fa-superpowers" /> Pools</a>
                         </li>
+                        <li className="nav-item dropdown">
+                            <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="fas fa-shopping-cart" /> Exchanges
+                            </a>
+                            <div className="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a className="dropdown-item" href="https://stocks.exchange/trade/HBF/LTC">Stocks.exchange</a>
+                            </div>
+                        </li>
                     </ul>
                     <form className="form-inline my-2 my-lg-2" onSubmit={this.handleSubmit}>
                         <input style={{width: 250+'px'}} value={this.state.value} onChange={this.handleChange} className="form-control mr-sm-2" type="search" placeholder="Account / Block hash / TX ID" aria-label="Search" />
