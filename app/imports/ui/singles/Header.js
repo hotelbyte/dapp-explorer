@@ -74,7 +74,7 @@ export default class Header extends Component {
                         </li>
                         <li className="nav-item dropdown">
                             <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <i class="fas fa-shopping-cart" /> Exchanges
+                                <i className="fas fa-shopping-cart" /> Exchanges
                             </a>
                             <div className="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <a className="dropdown-item" href="https://stocks.exchange/trade/HBF/LTC">Stocks.exchange</a>
