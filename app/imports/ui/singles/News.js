@@ -9,8 +9,8 @@ export default class News extends Component {
 		    News
 		  </div>
 		  <div className="card-body">
-		    <h5 className="card-title">Expecting the First Exchange!</h5>
-		    <p className="card-text">We are on <a href="https://stocks.exchange/trade/HBF/LTC">stocks.exchange</a>, buy hold, think one day you can booking a hotel suite!</p>
+		    <h5 className="card-title">Ready the first exchange!</h5>
+		    <p className="card-text">We are on <a href="https://stocks.exchange/trade/HBF/LTC">stocks.exchange</a>, buy and hold, think one day you can booking a hotel suite!</p>
 		    <a href="https://stocks.exchange/trade/HBF/LTC" className="btn btn-primary">Buy HBF</a>
 		  </div>
 		</div>
