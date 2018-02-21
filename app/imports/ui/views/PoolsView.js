@@ -45,6 +45,13 @@ export default class PoolsView extends Component {
                     </div>
                     <small className="text-muted">New!</small>
                 </a>
+                <a href="https://aikapool.com/hbc/index.php?page=dashboard" target="__blank" className="list-group-item list-group-item-action flex-column align-items-start">
+                    <div className="d-flex w-100 justify-content-between">
+                        <h5 className="mb-1">Aikapool</h5>
+                        <small className="text-muted"></small>
+                    </div>
+                    <small className="text-muted">New!</small>
+                </a>
             </div>
         );
     }
